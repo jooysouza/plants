@@ -1,2 +1,2 @@
-# https://github.com/jooysouza/plants/
+# https://jooysouza.github.io/plants/
 CSS Grid
